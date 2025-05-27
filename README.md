@@ -1,4 +1,4 @@
-# Curso de Python 3 - Do Básico ao Avançado 🚀🐍
+# Curso de Python - Do Básico ao Avançado 🚀🐍
 
 Este repositório contém materiais, exercícios e projetos desenvolvidos ao longo do **Curso de Python 3 do Básico ao Avançado**, focado em levar o aluno da estaca zero até aplicações completas com banco de dados, automações, web apps.
 
